@@ -1,0 +1,1 @@
+{"processes":{"187103fc-bc34-48ca-8c07-42350371cdeb":{"parent":null,"children":["602ed1ee-d05c-46a3-9ccf-ed19d03735ee"]},"602ed1ee-d05c-46a3-9ccf-ed19d03735ee":{"parent":"187103fc-bc34-48ca-8c07-42350371cdeb","children":[]}},"files":{"/home/raposo/projects/testesnodejs/04-coverage-e2e/api.js":["602ed1ee-d05c-46a3-9ccf-ed19d03735ee"]},"externalIds":{}}
