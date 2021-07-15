@@ -1,5 +1,5 @@
 const http = require('http')
-const DEFAULT_USER = { username: "ErickWendel", password: "123"}
+const DEFAULT_USER = { username: "AlvaroRaposo", password: "123"}
 const routes = {
     '/contact:get': (request, response) => {
         response.write('contact us page')

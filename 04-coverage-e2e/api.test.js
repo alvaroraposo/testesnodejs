@@ -26,7 +26,7 @@ describe('API Suite test', () => {
         it('should login successfully on the login route and return HTTP Status 200', async () => {
             const response = await request(app)
                 .post('/login')
-                .send({ username: "ErickWendel", password: "123"})
+                .send({ username: "AlvaroRaposo", password: "123"})
                 .expect(200)
 
 
