@@ -12,3 +12,4 @@
 ## 2 - Conceitos e Ciclo de Vida Javascript
 
 ### 6 - Passagem de Valor x Passagem de Referência de Variáveis
+### 7 - Javascript Coercion - Conversão Explícita x Implícita
